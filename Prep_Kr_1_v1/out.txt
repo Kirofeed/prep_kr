@@ -1,0 +1,16 @@
+Books by year 2034: 
+pasha other_book
+
+remakes of book "book1": 
+Kirill Drozhzha 2015
+Kirill Drozhzha 2016
+
+All the Books: 
+Kirill Drozhzha:
+	book - 2014
+	book1 - 2015
+	book1 - 2016
+	book2 - 2017
+pasha:
+	other_book - 2034
+

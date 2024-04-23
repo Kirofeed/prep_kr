@@ -1,0 +1,5 @@
+Kirill Drozhzha;book;2014
+pasha;other_book;2034
+Kirill Drozhzha;book1;2015
+Kirill Drozhzha;book1;2016
+Kirill Drozhzha;book2;2017
